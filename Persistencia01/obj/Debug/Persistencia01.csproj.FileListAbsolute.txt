@@ -1,0 +1,6 @@
+C:\Users\usuario\Desktop\TallerSeccionB\Persistencia01\bin\Debug\Persistencia01.exe.config
+C:\Users\usuario\Desktop\TallerSeccionB\Persistencia01\bin\Debug\Persistencia01.exe
+C:\Users\usuario\Desktop\TallerSeccionB\Persistencia01\bin\Debug\Persistencia01.pdb
+C:\Users\usuario\Desktop\TallerSeccionB\Persistencia01\obj\Debug\Persistencia01.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\TallerSeccionB\Persistencia01\obj\Debug\Persistencia01.exe
+C:\Users\usuario\Desktop\TallerSeccionB\Persistencia01\obj\Debug\Persistencia01.pdb
