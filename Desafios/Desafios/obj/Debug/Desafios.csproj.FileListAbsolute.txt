@@ -1,0 +1,5 @@
+C:\Users\Dani\OneDrive\Desktop\TallerSeccionB\REPO_TALLER01_B\Desafios\Desafios\obj\Debug\Desafios.csprojResolveAssemblyReference.cache
+C:\Users\Dani\OneDrive\Desktop\TallerSeccionB\REPO_TALLER01_B\Desafios\Desafios\bin\Debug\Desafios.exe
+C:\Users\Dani\OneDrive\Desktop\TallerSeccionB\REPO_TALLER01_B\Desafios\Desafios\bin\Debug\Desafios.pdb
+C:\Users\Dani\OneDrive\Desktop\TallerSeccionB\REPO_TALLER01_B\Desafios\Desafios\obj\Debug\Desafios.exe
+C:\Users\Dani\OneDrive\Desktop\TallerSeccionB\REPO_TALLER01_B\Desafios\Desafios\obj\Debug\Desafios.pdb
